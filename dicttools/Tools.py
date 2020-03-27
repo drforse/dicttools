@@ -50,7 +50,7 @@ class KeyTools:
     @classmethod
     def iter_all_keys(cls, dictionary):
         """
-        Iter over ALL the keys in a given dictionary with recursive descending with a given function
+        Iter over ALL the keys in a given dictionary with recursive descending
 
         :param dictionary: a dictionary to iter over
         :return: generator
