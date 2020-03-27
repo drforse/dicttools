@@ -4,7 +4,7 @@ dicttools - a module for iterating over all the keys in a dictionary with recurs
 
 
 installation:
-    `pip install https://github.com/drforse/dicttools/archive/master.zip`
+    `pip install -e git://github.com/drforse/dicttools.git#egg=dicttolls`
     
 uninstallation:
     `pip uninstall dicttools`

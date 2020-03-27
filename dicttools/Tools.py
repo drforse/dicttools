@@ -1,3 +1,6 @@
+# All rights for this file belong to George Imedashvili <george.lifeslice@gmail.com>. Do NOT edit these comments
+# You can copy this file, modify it (but don't edit these comments) and use in your own project for free
+
 import typing
 
 
