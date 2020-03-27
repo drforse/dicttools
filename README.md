@@ -9,7 +9,7 @@ uninstallation:
 
 example:
 
-    `from dicttools import KeyTools
+    from dicttools import KeyTools
     me = {'me': {'age of me': 8}}
     
     def replace(s, to_replace, replacement):
@@ -17,4 +17,4 @@ example:
     
     he = KeyTools.edit_all_keys(obj=me, function=replace, to_replace='me', replacement='he')
     
-    # he will be {'he': {'age of he': 8}}`
+    # he will be {'he': {'age of he': 8}}
