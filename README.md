@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/drforse/dicttools.svg?branch=master)](https://travis-ci.com/drforse/dicttools)
+
 dicttools - a module for iterating over all the keys in a dictionary with recursive descending or modifying them
 
 
