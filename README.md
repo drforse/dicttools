@@ -8,6 +8,7 @@ uninstallation:
     `pip uninstall dicttools`
 
 example:
+
     `from dicttools import KeyTools
     me = {'me': {'age of me': 8}}
     
